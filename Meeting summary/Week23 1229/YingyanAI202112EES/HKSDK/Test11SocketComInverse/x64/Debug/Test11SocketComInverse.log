@@ -1,0 +1,13 @@
+﻿  Test11SocketComInverse.cpp
+D:\%Generqianshang\CVIdobj\20211202\HKSDK\Test11SocketComInverse\DecodeCardSdk.h(239,1): warning C4005: “SERIAL_NUMBER_LENGTH”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(9195): message : 参见“SERIAL_NUMBER_LENGTH”的前一个定义
+D:\%Generqianshang\CVIdobj\20211202\HKSDK\Test11SocketComInverse\Test11SocketComInverse.cpp(42,10): warning C4477: “printf”: 格式字符串“% d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+D:\%Generqianshang\CVIdobj\20211202\HKSDK\Test11SocketComInverse\Test11SocketComInverse.cpp(42,10): message : 请考虑在格式字符串中使用“%lld”
+D:\%Generqianshang\CVIdobj\20211202\HKSDK\Test11SocketComInverse\Test11SocketComInverse.cpp(42,10): message : 请考虑在格式字符串中使用“%Id”
+D:\%Generqianshang\CVIdobj\20211202\HKSDK\Test11SocketComInverse\Test11SocketComInverse.cpp(42,10): message : 请考虑在格式字符串中使用“%I64d”
+D:\%Generqianshang\CVIdobj\20211202\HKSDK\Test11SocketComInverse\Test11SocketComInverse.cpp(133,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\%Generqianshang\CVIdobj\20211202\HKSDK\Test11SocketComInverse\Test11SocketComInverse.cpp(257,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\%Generqianshang\CVIdobj\20211202\HKSDK\Test11SocketComInverse\Test11SocketComInverse.cpp(173,8): warning C4101: “EbtIP”: 未引用的局部变量
+D:\%Generqianshang\CVIdobj\20211202\HKSDK\Test11SocketComInverse\Test11SocketComInverse.cpp(173,15): warning C4101: “EbtUser”: 未引用的局部变量
+D:\%Generqianshang\CVIdobj\20211202\HKSDK\Test11SocketComInverse\Test11SocketComInverse.cpp(173,24): warning C4101: “EbtPswd”: 未引用的局部变量
+  Test11SocketComInverse.vcxproj -> D:\%Generqianshang\CVIdobj\20211202\HKSDK\Test11SocketComInverse\x64\Debug\Test11SocketComInverse.exe

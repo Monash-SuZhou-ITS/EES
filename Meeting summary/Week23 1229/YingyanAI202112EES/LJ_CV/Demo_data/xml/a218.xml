@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>1637805051.510042.jpg</filename>
+	<path>D:\项目\LJCV\LJ_CV\Demo_data\Images\1637805051.510042.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1365</width>
+		<height>980</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>590</xmin>
+			<ymin>440</ymin>
+			<xmax>745</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+</annotation>

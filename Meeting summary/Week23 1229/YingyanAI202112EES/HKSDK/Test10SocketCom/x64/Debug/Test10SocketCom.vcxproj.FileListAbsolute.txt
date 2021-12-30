@@ -1,0 +1,5 @@
+D:\%Generqianshang\CVIdobj\%Spherical camera\TestEmbed\Test10SocketCom\x64\Debug\Test10SocketCom.exe
+D:\%Generqianshang\CVIdobj\%Spherical camera\TestEmbed\Test10SocketCom\x64\Debug\Test10SocketCom.pdb
+D:\项目\LJCV\HKSDK\Test10SocketCom\x64\Debug\Test10SocketCom.exe
+D:\%Generqianshang\CVIdobj\20211202\HKSDK\Test10SocketCom\x64\Debug\Test10SocketCom.exe
+D:\%Generqianshang\CVIdobj\20211202\HKSDK\Test10SocketCom\x64\Debug\Test10SocketCom.pdb
